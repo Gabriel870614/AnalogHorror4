@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../analoghorror/Analog"
+		},
+		{
+			"path": "../../newfile"
+		},
+		{
+			"path": "../../videogame/game"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

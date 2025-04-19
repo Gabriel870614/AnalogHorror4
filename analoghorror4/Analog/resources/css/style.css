@@ -1,0 +1,220 @@
+* {
+    background-color: #9e2c13;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #3a4660;
+    font-weight: 600;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #3a4660;
+    text-align: center;
+}
+
+h3 {
+    font-size: 2.5rem;
+    color: #9e6008;
+    padding: 20px;
+    font-weight: 100;
+}
+
+h4 {
+    font-size: 1.5rem;
+    color: #9e6008;
+    text-align: center;
+}
+
+h5 {
+    font-size: 2.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h6 {
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+}
+
+a {
+   background-color: #3a4660;
+   color: #c9af98;
+   text-decoration: none;
+   padding: 20px;
+   border: 5px outset #9e6008;
+   border-radius: 50%;
+   transition-duration: .3s;
+   margin: 5px;
+}
+
+ol,
+ul {
+  padding-left: 40px;
+}
+
+a:hover {
+    background-color: #9e6008;
+    border: 5px outset #3a4660;
+}
+
+nav { 
+     text-align: center;
+     margin: 20px auto;
+     padding: 10px;
+}
+
+p {
+    font-size: 1.7rem;
+    text-align: center;
+    color: #9e6008;
+    font-weight: 200;
+    border-bottom: 5px solid #3a4660;
+    padding: 10px;
+}
+
+ul {
+    padding-bottom: 20px;   
+}
+
+div {
+     text-align: center;
+}
+
+.button {
+    text-align: center;
+}
+
+.redacted {
+           color: red;
+}
+
+.border {
+         border: 5px solid #3a4660;
+         padding: 20px;
+}
+
+.box {
+      padding: 35px 35px 30px 10px;
+      border: 5px solid #3a4660;
+}
+
+#image-container {
+                  background-color: rgb(73, 71, 71);
+                  height: 500px;
+                  width: 400px;
+                  margin: 10px;
+                  display: flex;
+                  justify-content: center;
+                  padding: 20px 280px 0px 160px;
+                  border: 10px solid #000;
+                  flex-direction: flex;
+                  border-radius: 5%;
+                  align-self: center;
+                  box-shadow: 3px 3px #616060;
+}
+
+.screen {
+    background-color: rgb(152, 151, 151);
+    height: 300px;
+    width: 500;
+    margin: 15px 220px 20px -90px;
+    display: flex;
+    border: 5px solid #000;
+    padding: 70px 165px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.button2 {
+          text-align: center;
+          padding: 30px 30px 0px 30px;
+}
+
+img {
+     align-self: baseline;
+     width: 400px;
+     height: 350px;
+     justify-content: center;
+     flex-direction: flex;
+     align-content: center;
+     display: flex;
+     margin-left: 10px;
+     position: absolute;
+}
+
+.screen2 {
+          justify-content: auto;
+          color: rgb(73, 71, 71);
+          background-color: rgb(73, 71, 71);
+          flex-direction: flex;
+          border: 5px solid #000;
+          margin: 10px 10px 10px 520px;
+          
+}
+
+.screen3 {
+          display: flex;
+          height: 80px;
+          width: 400px;
+          padding: 10px 0px 10px 0px;
+          margin: 380px 5px 1190px 490px;
+          background-color: rgb(73, 71, 71);
+          color: rgb(209, 209, 62);
+          border: 5px solid rgb(209, 209, 62);
+          justify-content: center;
+          position: absolute;
+          
+          
+          
+}
+
+.screen4 {
+    display: flex;
+    height: 80px;
+    width: 400px;
+    padding: 10px 0px 10px 0px;
+    margin: 380px 5px 1190px 490px;
+    background-color: rgb(73, 71, 71);
+    color: rgb(206, 36, 36);
+    border: 5px solid rgb(206, 36, 36);
+    justify-content: center;
+    position: absolute;
+}
+
+.screen5 {
+    display: flex;
+    height: 80px;
+    width: 400px;
+    padding: 10px 0px 10px 0px;
+    margin: 380px 5px 1190px 490px;
+    background-color: rgb(73, 71, 71);
+    color: rgb(98, 228, 22);
+    border: 5px solid rgb(98, 228, 22);
+    justify-content: center;
+    position: absolute;
+}
+
+#button3 {
+          font-size: 2.3rem;
+          padding: 20px 60px 0px 60px;
+          position: absolute;
+          margin: 80px 330px 20px 20px;
+          text-align: center;
+          text-decoration: none;
+          background-color: #3a4660;  
+          color: #c9af98; 
+          border: 5px outset #9e6008;
+          border-radius: 50%; 
+          transition-duration: .3s;
+          flex-direction: flex;
+}
+
+#button3:hover {
+       background-color: #9e6008;
+       border: 5px outset #3a4660;
+}
+
